@@ -659,6 +659,9 @@
 [submodule "rust/collidedscope-albus/albus"]
 	path = rust/collidedscope-albus/albus
 	url = https://github.com/collidedscope/albus
+[submodule "rust/d3psi-spacey/spacey"]
+	path = rust/d3psi-spacey/spacey
+	url = https://github.com/D3PSI/spacey.git
 [submodule "rust/faultier-albino/albino"]
 	path = rust/faultier-albino/albino
 	url = https://github.com/faultier/albino
